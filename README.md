@@ -4,6 +4,19 @@
 ## Live Demo
 
 🔗 [Launch NagarNex AI](https://ai.studio/apps/8429aa69-0f1c-4588-ab4f-92fb5eb2528d?fullscreenApplet=true)
+## Screenshots
+
+### Citizen Complaint Portal
+![Citizen Complaint Portal](01-citizen-complaint_enhanced.png)
+
+### Complaint Tracking
+![Complaint Tracking](02-complaint-tracking_enhanced.png)
+
+### Officer Supervisory Console
+![Officer Supervisory Console](03-officer-console_enhanced.png)
+
+### Tableau Analytics Dashboard
+![Tableau Analytics Dashboard](04-tableau-dashboard_enhanced.png)
 
 NagarNex AI is an AI-assisted public grievance management prototype designed to help citizens report civic issues and help municipal officers move complaints from submission to verified closure.
 
