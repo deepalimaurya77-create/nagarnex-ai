@@ -1,0 +1,11 @@
+{
+  "name": "NagarNex AI",
+  "description": "Evidence-to-Closure Civic Intelligence for Indian Municipal Corporations powered by Gemini AI. Analyses public complaints in Hindi, Hinglish, and English with officer triage recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
