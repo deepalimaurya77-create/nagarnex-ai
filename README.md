@@ -1,6 +1,9 @@
 # NagarNex AI
 
 ### Evidence-to-Closure Civic Intelligence for Indian Municipal Corporations
+## Live Demo
+
+🔗 [Launch NagarNex AI](https://ai.studio/apps/8429aa69-0f1c-4588-ab4f-92fb5eb2528d?fullscreenApplet=true)
 
 NagarNex AI is an AI-assisted public grievance management prototype designed to help citizens report civic issues and help municipal officers move complaints from submission to verified closure.
 
