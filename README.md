@@ -17,6 +17,9 @@
 
 ### Tableau Analytics Dashboard
 ![Tableau Analytics Dashboard](04-tableau-dashboard_enhanced.png)
+## Demo Video
+
+[Watch the NagarNex AI Demo Video](https://docs.google.com/videos/d/15v6lRgbV5Gw4Vs8gu4Nh3IN1YIn2jrvUOv7CeK1dFIU/play?usp=sharing)
 
 NagarNex AI is an AI-assisted public grievance management prototype designed to help citizens report civic issues and help municipal officers move complaints from submission to verified closure.
 
